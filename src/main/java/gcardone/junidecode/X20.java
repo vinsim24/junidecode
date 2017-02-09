@@ -193,7 +193,7 @@ class X20 {
         "Pts", // 0xa7
         "Rs", // 0xa8
         "W", // 0xa9
-        "NS", // 0xaa
+        "₪", // 0xaa
         "D", // 0xab
         "€", // 0xac
         "K", // 0xad
